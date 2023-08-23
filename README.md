@@ -1,3 +1,0 @@
-# gitpractice
-fanindra
-hirapure
